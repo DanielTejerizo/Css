@@ -10,5 +10,5 @@
     "gulp.autoDetect": "on",
     "jake.autoDetect": "on",
     "files.autoSave": "afterDelay",
-    "editor.inlineSuggest.showToolbar": "always"
+    "editor.inlineSuggest.showToolbar": "onHover"
 }
